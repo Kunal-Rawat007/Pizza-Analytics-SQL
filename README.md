@@ -16,7 +16,7 @@ Using this data, the project answers key business questions such as:
 - 📅 On which day of the week do we receive the most orders?
 - 📈 What does the yearly revenue trend look like?
 
-Each question is answered using optimized SQL queries, and the [results]() are visualized and compiled in a clean PDF format.
+Each question is answered using optimized SQL queries, and the [results](https://drive.google.com/file/d/1-uk0lShq8-tfcdHY2QXNuNEAjttYPoHK/view?usp=sharing) are visualized and compiled in a clean PDF format.
 
 ---
 
